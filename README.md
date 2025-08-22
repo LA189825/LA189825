@@ -10,7 +10,7 @@
 
 ---
 
-### 🛠️ Tech Stack & Tools 🛠️
+###  Tech Stack & Tools
 
 <p>
   <img src="https://skillicons.dev/icons?i=python,flask,django,angular,ts,js,html,css,tailwind,c,cs,ruby&perline=6" alt="Tech Stack" />
@@ -20,7 +20,7 @@
 
 ---
 
-### 🔗 Let's Connect 🔗
+### Let's Connect 
 
 <p>
   <a href="https://www.linkedin.com/in/mathys-noteboom-357b14344/" target="_blank">
