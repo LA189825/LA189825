@@ -5,7 +5,7 @@
 ### Junior Full-Stack Developer | Python & Angular Specialist
 
 <p>
-  🌍 Fluent in French, English, German & Dutch &nbsp;&nbsp;|&nbsp;&nbsp; ⌨️ 95 WPM Typist &nbsp;&nbsp;|&nbsp;&nbsp; 🌱 Actively seeking new opportunities
+  🌍 Fluent in French, English& Dutch &nbsp;&nbsp;|&nbsp;&nbsp; ⌨️ 95 WPM Typist &nbsp;&nbsp;|&nbsp;&nbsp; 🌱 Actively seeking new opportunities
 </p>
 
 ---
