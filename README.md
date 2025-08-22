@@ -13,7 +13,7 @@
 ### 🛠️ Tech Stack & Tools 🛠️
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,flask,django,angular,ts,js,html,css,tailwind,c,cs,ruby&perline=6" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=python,flask,angular,ts,js,html,css,tailwind,c,cs&perline=6" alt="Tech Stack" />
   <br>
   <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlalchemy&perline=3" alt="Databases" />
 </p>
