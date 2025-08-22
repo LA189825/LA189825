@@ -15,7 +15,7 @@
 <p>
   <img src="https://skillicons.dev/icons?i=python,flask,django,angular,ts,js,html,css,tailwind,c,cs,ruby&perline=6" alt="Tech Stack" />
   <br>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlalchemy,blender,discord,linux&perline=6" alt="Databases" />
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,photoshop,blender,discord,linux&perline=6" alt="Databases" />
 </p>
 
 ---
