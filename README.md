@@ -36,20 +36,3 @@
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
-
----
-
-### 📊 My GitHub Activity 📊
-
-<p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LA189825&show_icons=true&theme=onedark&include_all_commits=true&count_private=true&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LA189825&layout=compact&theme=onedark&include_all_commits=true&count_private=true&hide_border=true" />
-</p>
-<p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LA189825&theme=onedark&hide_border=true" />
-</p>
-<p>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=LA189825&bg_color=282c34&color=ffffff&line=0891b2&point=ffffff&area=true&hide_border=true" />
-</p>
-
-</div>
