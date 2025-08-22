@@ -2,10 +2,10 @@
 
 # Mathys 'LaProvidence' Noteboom 👋
 
-### Junior Full-Stack Developer | Python & Angular Specialist
+### Junior Full-Stack Developer
 
 <p>
-  🌍 Fluent in French, English& Dutch &nbsp;&nbsp;|&nbsp;&nbsp; ⌨️ 95 WPM Typist &nbsp;&nbsp;|&nbsp;&nbsp; 🌱 Actively seeking new opportunities
+  🌍 Fluent in French, English & Dutch &nbsp;&nbsp;|&nbsp;&nbsp; ⌨️ 95 WPM Typist &nbsp;&nbsp;|&nbsp;&nbsp; 🌱 Actively seeking new opportunities
 </p>
 
 ---
