@@ -20,7 +20,7 @@
 
 ---
 ### Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LA189825&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LA189825&layout=compact)
 
 ---
 
